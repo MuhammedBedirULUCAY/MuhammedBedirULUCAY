@@ -4,7 +4,9 @@
 
 <h3 align="center">Programming Styles</h3>
 <p align="center"> 
-<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"> <img src="https://articlesofdistinction.com/wp-content/uploads/2020/09/10-applications-of-object-oriented-programming.jpeg" alt="oop" width="60" height="60"/> </a> 
+<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-512.png" alt="oop" width="60" height="60"/> </a> 
+<a href="https://www.geeksforgeeks.org/functional-programming-paradigm" target="_blank"> <img src="https://axisapplications.com/wp-content/uploads/2019/02/functionalprogramming_icon-300x300.png" alt="fp" width="60" height="60"/> </a> 
+  
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
