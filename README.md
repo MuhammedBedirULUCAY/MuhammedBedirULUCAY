@@ -6,6 +6,7 @@
 <p align="left"> 
 <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"> <img src="https://st4.depositphotos.com/18672748/22455/v/600/depositphotos_224553200-stock-illustration-object-oriented-programming-icon-trendy.jpg" alt="oop" width="60" height="60"/> </a> 
 <a href="https://www.geeksforgeeks.org/functional-programming-paradigm" target="_blank"> <img src="https://axisapplications.com/wp-content/uploads/2019/02/functionalprogramming_icon-300x300.png" alt="fp" width="60" height="60"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/Structured_programming" target="_blank"> <img src="https://image.winudf.com/v2/image1/Y29tLnNxc3RlY2guc3RydWN0dXJlZF9wcm9ncmFtbWluZ19pY29uXzE1NjQ3NDExOThfMDA5/icon.png?w=100&fakeurl=1" alt="sp" width="60" height="60"/> </a> 
   
 
 <h3 align="left">Languages</h3>
