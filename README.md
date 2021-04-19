@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedBedirULUCAY&show_icons=true&theme=dark&locale=en&layout=compact" alt="MuhammedBedirULUCAY" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
