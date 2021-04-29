@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedBedirULUCAY&show_icons=true&theme=dark&locale=en&layout=compact" alt="MuhammedBedirULUCAY" /></p>
-
+<br />
 <h3 align="left">Programming Styles</h3>
 <p align="left"> 
 <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"> <img src="https://st4.depositphotos.com/18672748/22455/v/600/depositphotos_224553200-stock-illustration-object-oriented-programming-icon-trendy.jpg" alt="oop" width="60" height="60"/> </a> 
