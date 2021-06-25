@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedBedirULUCAY&show_icons=true&theme=dark&locale=en&layout=compact" alt="MuhammedBedirULUCAY" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbulucay&show_icons=true&theme=dark&locale=en&layout=compact" alt="MuhammedBedirULUCAY" /></p>
 <br />
 <h3 align="left">Programming Styles</h3>
 <p align="left"> 
