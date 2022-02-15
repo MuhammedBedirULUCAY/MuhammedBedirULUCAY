@@ -1,14 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+**I am a Full Time Learner** 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbulucay&show_icons=true&theme=dark&locale=en&layout=compact" alt="MuhammedBedirULUCAY" /></p>
-<br />
-<h3 align="left">Programming Styles</h3>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbulucay&show_icons=true&theme=dark&locale=en&layout=compact" alt="MuhammedBedirULUCAY" />
+</p>
+
+<br/>
+<h3 align="left">Programming Paradigm</h3>
 <p align="left"> 
 <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"> <img src="https://st4.depositphotos.com/18672748/22455/v/600/depositphotos_224553200-stock-illustration-object-oriented-programming-icon-trendy.jpg" alt="oop" width="60" height="60"/> </a> 
 <a href="https://www.geeksforgeeks.org/functional-programming-paradigm" target="_blank"> <img src="https://axisapplications.com/wp-content/uploads/2019/02/functionalprogramming_icon-300x300.png" alt="fp" width="60" height="60"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/Structured_programming" target="_blank"> <img src="https://image.winudf.com/v2/image1/Y29tLnNxc3RlY2guc3RydWN0dXJlZF9wcm9ncmFtbWluZ19pY29uXzE1NjQ3NDExOThfMDA5/icon.png?w=100&fakeurl=1" alt="sp" width="60" height="60"/> </a> 
+<a href="https://en.wikipedia.org/wiki/Imperative_programming" target="_blank"> <img src="https://i.ibb.co/qrW1cN6/CREATOR-gd-jpeg-v1-0-using-IJG-JPEG-v62-quality-82.jpg" alt="fp" width="60" height="70"/> </a> 
+<a href="https://en.wikipedia.org/wiki/Structured_programming" target="_blank"> <img src="https://image.winudf.com/v2/image1/Y29tLnNxc3RlY2guc3RydWN0dXJlZF9wcm9ncmFtbWluZ19pY29uXzE1NjQ3NDExOThfMDA5/icon.png?w=100&fakeurl=1" alt="sp" width="60" height="60"/> </a> 
   
-
 <h3 align="left">Languages</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
