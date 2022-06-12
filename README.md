@@ -1,7 +1,7 @@
 ## Hi there 👋
 **I am a Full Time Learner** 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbulucay&show_icons=true&theme=dark&locale=en&layout=compact" alt="MuhammedBedirULUCAY" />
+<p><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mbulucay&layout=compact&langs_count=8&theme=algolia" alt="MuhammedBedirULUCAY" />
 </p>
 
 <br/>
